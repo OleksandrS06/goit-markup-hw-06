@@ -660,7 +660,7 @@ img {
   right: 26px;
 }
 
-/* Портфоліо */
+
 /* .site-nav-studio {
   color: var(--primary-text-color);
   font-weight: 500;
@@ -669,8 +669,9 @@ img {
 /* .site-nav-studio:hover,
 .site-nav-studio:focus {
   color: var(--blue-color);
-  
 } */
+
+/* Портфоліо */
 .works {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -935,6 +936,7 @@ img {
   align-items: center;
   gap: 9px;
   padding-left: 14px;
+  
 }
 .agreement-checkbox-text {
   color: var(--grey-text-color);
